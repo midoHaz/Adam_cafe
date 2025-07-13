@@ -1,6 +1,6 @@
-# google_maps
+# Adam_cafe app 
 
-A project to learn how to apply google maps in  flutter
+You can discover different types of coffee order them and enjoy drinking through the App
 
 ## Getting Started
 
