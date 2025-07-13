@@ -13,6 +13,7 @@ class CoffeApp extends StatelessWidget {
     return ScreenUtilInit(
         designSize: const Size(375, 812),
         minTextAdapt: true,
+        
         child: MaterialApp(
           debugShowCheckedModeBanner: false,
           // You can use the library anywhere in the app even in theme
